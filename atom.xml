@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://neochou.com/"/>
-  <updated>2016-05-05T11:35:56.000Z</updated>
+  <updated>2016-05-05T11:49:55.000Z</updated>
   <id>http://neochou.com/</id>
   
   <author>
@@ -16,20 +16,50 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hello World</title>
+    <link href="http://neochou.com/2016/05/05/hello-world/"/>
+    <id>http://neochou.com/2016/05/05/hello-world/</id>
+    <published>2016-05-05T11:21:59.000Z</published>
+    <updated>2016-05-05T11:49:55.000Z</updated>
+    
+    <content type="html">&lt;p&gt;本博客基于&lt;a href=&quot;https://hexo.io/zh-cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;＋&lt;a href=&quot;https://github.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;打造，是个很棒的个人博客建站工具组合，只是学习曲线前面会比较陡峭些，尤其对于不熟悉命令行操作和代码的人来讲。需要帮助可以随时查看&lt;a href=&quot;https://hexo.io/zh-cn/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo帮助文档&lt;/a&gt;，我也在持续学习中：）&lt;/p&gt;
+&lt;h2 id=&quot;平常写文章常见命令&quot;&gt;&lt;a href=&quot;#平常写文章常见命令&quot; class=&quot;headerlink&quot; title=&quot;平常写文章常见命令&quot;&gt;&lt;/a&gt;平常写文章常见命令&lt;/h2&gt;&lt;p&gt;以Mac为例&lt;/p&gt;
+&lt;h3 id=&quot;创建新文章&quot;&gt;&lt;a href=&quot;#创建新文章&quot; class=&quot;headerlink&quot; title=&quot;创建新文章&quot;&gt;&lt;/a&gt;创建新文章&lt;/h3&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &amp;quot;文章标题&amp;quot;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;详情请查看&lt;a href=&quot;https://hexo.io/zh-cn/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;写作帮助文档&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;运行服务器本地预览&quot;&gt;&lt;a href=&quot;#运行服务器本地预览&quot; class=&quot;headerlink&quot; title=&quot;运行服务器本地预览&quot;&gt;&lt;/a&gt;运行服务器本地预览&lt;/h3&gt;&lt;p&gt;可跳过，一般上传github后多刷新几次就能预览，因为我写文章时用的MarkDown编辑器(Mou)所见即所得的，所以预览在本地就能完成。&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;详情请查看&lt;a href=&quot;https://hexo.io/zh-cn/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;服务器&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;生成并部署&quot;&gt;&lt;a href=&quot;#生成并部署&quot; class=&quot;headerlink&quot; title=&quot;生成并部署&quot;&gt;&lt;/a&gt;生成并部署&lt;/h3&gt;&lt;p&gt;我很喜欢这个组合语句，非常简练，生成后直接部署。&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo d -g&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本博客基于&lt;a href=&quot;https://hexo.io/zh-cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;＋&lt;a href=&quot;https://github.com/&quot; target=&quot;_blank&quot; rel=&quot;external
+    
+    </summary>
+    
+      <category term="Code" scheme="http://neochou.com/categories/Code/"/>
+    
+    
+      <category term="git" scheme="http://neochou.com/tags/git/"/>
+    
+      <category term="hexo" scheme="http://neochou.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
     <title>又一个个人博客</title>
     <link href="http://neochou.com/2016/05/05/first/"/>
     <id>http://neochou.com/2016/05/05/first/</id>
     <published>2016-05-05T11:21:59.000Z</published>
-    <updated>2016-05-05T11:35:56.000Z</updated>
+    <updated>2016-05-05T11:38:10.000Z</updated>
     
-    <content type="html">&lt;p&gt;其实之前在blogbus、wordpress之类都有写过几篇博客，然后就都是没有然后了。。。&lt;/p&gt;
-&lt;p&gt;一方面还是太麻烦（被墙的要翻墙，不需要翻的服务也烂的不行），另一方面还是自己太懒，懒于动手、懒于动脑总结什么。所以博客这东西吧，让人又爱又恨，爱的是强迫自己去总结思考，恨的是太难坚持，所以这块能有什么产品服务能解决这个问题呢？Tumblr、轻博客之类的火过一阵也销声匿迹了，发表深度观点和抖机灵如何去平衡确实是个问题。&lt;br&gt;嗯，不多说，本博客旨在发表本人在设计道路上的一些总结思考，但愿这事能持续进行下去吧：）&lt;/p&gt;
+    <content type="html">&lt;p&gt;其实之前在blogbus、wordpress之类都有写过几篇博客，然后就都是没有然后了。。。&lt;br&gt;一方面还是太麻烦（被墙的要翻墙，不需要翻的服务也烂的不行），另一方面还是自己太懒，懒于动手、懒于动脑总结什么。所以博客这东西吧，让人又爱又恨，爱的是强迫自己去总结思考，恨的是太难坚持，所以这块能有什么产品服务能解决这个问题呢？Tumblr、轻博客之类的火过一阵也销声匿迹了，发表深度观点和抖机灵如何去平衡确实是个问题。&lt;br&gt;嗯，不多说，本博客旨在发表本人在设计道路上的一些总结思考，但愿这事能持续进行下去吧：）&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;其实之前在blogbus、wordpress之类都有写过几篇博客，然后就都是没有然后了。。。&lt;/p&gt;
-&lt;p&gt;一方面还是太麻烦（被墙的要翻墙，不需要翻的服务也烂的不行），另一方面还是自己太懒，懒于动手、懒于动脑总结什么。所以博客这东西吧，让人又爱又恨，爱的是强迫自己去总结思考
+      &lt;p&gt;其实之前在blogbus、wordpress之类都有写过几篇博客，然后就都是没有然后了。。。&lt;br&gt;一方面还是太麻烦（被墙的要翻墙，不需要翻的服务也烂的不行），另一方面还是自己太懒，懒于动手、懒于动脑总结什么。所以博客这东西吧，让人又爱又恨，爱的是强迫自己去总结思考，恨的是
     
     </summary>
     
@@ -37,33 +67,6 @@
     
     
       <category term="tumble" scheme="http://neochou.com/tags/tumble/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://neochou.com/2016/04/07/hello-world/"/>
-    <id>http://neochou.com/2016/04/07/hello-world/</id>
-    <published>2016-04-07T06:08:25.000Z</published>
-    <updated>2016-04-07T06:08:25.000Z</updated>
-    
-    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-    
-    </summary>
-    
     
   </entry>
   
