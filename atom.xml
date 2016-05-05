@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://neochou.com/"/>
-  <updated>2016-04-07T06:08:25.000Z</updated>
+  <updated>2016-05-05T11:35:56.000Z</updated>
   <id>http://neochou.com/</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>又一个个人博客</title>
+    <link href="http://neochou.com/2016/05/05/first/"/>
+    <id>http://neochou.com/2016/05/05/first/</id>
+    <published>2016-05-05T11:21:59.000Z</published>
+    <updated>2016-05-05T11:35:56.000Z</updated>
+    
+    <content type="html">&lt;p&gt;其实之前在blogbus、wordpress之类都有写过几篇博客，然后就都是没有然后了。。。&lt;/p&gt;
+&lt;p&gt;一方面还是太麻烦（被墙的要翻墙，不需要翻的服务也烂的不行），另一方面还是自己太懒，懒于动手、懒于动脑总结什么。所以博客这东西吧，让人又爱又恨，爱的是强迫自己去总结思考，恨的是太难坚持，所以这块能有什么产品服务能解决这个问题呢？Tumblr、轻博客之类的火过一阵也销声匿迹了，发表深度观点和抖机灵如何去平衡确实是个问题。&lt;br&gt;嗯，不多说，本博客旨在发表本人在设计道路上的一些总结思考，但愿这事能持续进行下去吧：）&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;其实之前在blogbus、wordpress之类都有写过几篇博客，然后就都是没有然后了。。。&lt;/p&gt;
+&lt;p&gt;一方面还是太麻烦（被墙的要翻墙，不需要翻的服务也烂的不行），另一方面还是自己太懒，懒于动手、懒于动脑总结什么。所以博客这东西吧，让人又爱又恨，爱的是强迫自己去总结思考
+    
+    </summary>
+    
+      <category term="Diary" scheme="http://neochou.com/categories/Diary/"/>
+    
+    
+      <category term="tumble" scheme="http://neochou.com/tags/tumble/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
